@@ -10,7 +10,7 @@ Celebrate every moment with a burst of vibrant colors and dazzling fireworks rig
 
 🎆 Open the app and explore a variety of stunning fireworks models.  
 
-🎮 Place fireworks on the ground, launch them into the sky, and enjoy a spectacular show.  
+🎮 Place fireworks on the ground, launch them into the sky, and enjoy a stunning display of light and color in your environment.
 
 📸 Capture mesmerizing moments of fireworks lighting up your world with ease.  
  
