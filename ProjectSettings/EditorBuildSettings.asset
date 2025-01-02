@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HomeScreen.unity
+    guid: 2b6e145cf25937445a88ea026e296bf0
+  - enabled: 1
+    path: Assets/Scenes/Firecracker.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Rockets.unity
+    guid: 849d308fb4087354d9cedea4d80edec1
+  - enabled: 1
+    path: Assets/Scenes/SkyShots.unity
+    guid: d9d8fa8b170641a4aaddffe13c6640f7
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e8076652c7864504f809caf9903b3641, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 166559a08db64fe4e864e37e13ebb41f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ac8faadf916ce9f49ba01f7753bf81c2, type: 2}
+  m_UseUCBPForAssetBundles: 0
